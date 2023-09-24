@@ -25,3 +25,4 @@ elif operacion == '2':
     print(num1, '-', num2, '=', resta(num1, num2))
 elif operacion == '3':
     print(num1,'*',num2,'=',multi(num1,num2))
+
